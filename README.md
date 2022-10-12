@@ -6,7 +6,7 @@ The purpose of this analysis is to create statistical analysis of temperature of
 ### June Temperature Summary
  ![June_Temps](https://user-images.githubusercontent.com/76926148/195245650-165041e6-1fbf-4d07-8761-bab14ab9e703.PNG)
 
-### December Temprature Summary
+### December Temperature Summary
  ![December_Temps](https://user-images.githubusercontent.com/76926148/195245918-3b57f317-550d-4b94-a3ac-939d2f03627f.PNG)
 
 
